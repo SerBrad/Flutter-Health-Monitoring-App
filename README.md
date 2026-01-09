@@ -6,7 +6,7 @@
   - Gonzales, Kat
   - Tulio, Brad Lee
 
-## SECTION: B6L
+
 
 ## APP DESCRIPTION: 
 Stay informed and take control of your health with the UPLB Health Monitor, a powerful app designed specifically for the residents of the 
