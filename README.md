@@ -1,4 +1,4 @@
-## KUMUSTA: CMSC 23 FINAL PROJECT (Health Monitoring App for UPLB residents)
+## KUMUSTA:  (Health Monitoring App for UPLB residents)
 
 ## DEVELOPERS: 
   - Alcantara, Mark Henry 
